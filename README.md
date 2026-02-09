@@ -48,6 +48,7 @@ Go to [details page](details.md)
  <ul>
   <li>Solidtime</li>
   <li>TRIP</li>
+  <li>Checkle</li>
   </ul>
 </details>
 
