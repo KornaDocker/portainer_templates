@@ -47,6 +47,7 @@ Go to [details page](details.md)
 <br>
  <ul>
   <li>Solidtime</li>
+  <li>TRIP</li>
   </ul>
 </details>
 
