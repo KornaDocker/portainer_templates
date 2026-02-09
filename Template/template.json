@@ -3757,7 +3757,7 @@
 	  {
       "categories": ["Productivity"],
  	  "description": "Minimalist Map tracker and Trip planner to visualize your points of interest (POI) and organize your next adventure details. Self-hosted with no telemetry, no tracking, no ads.",
-      "logo": "https://raw.githubusercontent.com/itskovacs/trip/main/.github/logo.png",
+      "logo": "https://github.com/itskovacs/trip/raw/main/src/public/favicon.png",
       "name": "trip",
       "platform": "linux",
   	  "repository": {
