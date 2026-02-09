@@ -3731,7 +3731,7 @@
 	{
       "categories": ["Personal Finance"],
       "description": "Golang-based web application for personal expense management, focused on a clean monthly workflow and intuitive tracking of recurring and non-recurring costs.", 
-      "logo": "https://github.com/solidtime-io/solidtime/raw/main/docs/solidtime-banner.png",
+      "logo": "",
       "name": "gocostweb",
       "platform": "linux",
       "repository": {
@@ -3744,7 +3744,7 @@
 	  {
       "categories": ["Time Management"],
       "description": "The modern Open-Source Time Tracker", 
-      "logo": "",
+      "logo": "https://github.com/solidtime-io/solidtime/raw/main/docs/solidtime-banner.png",
       "name": "solidtime",
       "platform": "linux",
       "repository": {
@@ -3754,6 +3754,19 @@
       "title": "SolidTime",
       "type": 3
     }, 
+	  {
+      "categories": ["Productivity"],
+ 	  "description": "Minimalist Map tracker and Trip planner to visualize your points of interest (POI) and organize your next adventure details. Self-hosted with no telemetry, no tracking, no ads.",
+      "logo": "https://raw.githubusercontent.com/itskovacs/trip/main/.github/logo.png",
+      "name": "trip",
+      "platform": "linux",
+  	  "repository": {
+        "stackfile": "Template/Stack/trip.yml",
+        "url": "https://github.com/xneo1/portainer_templates"
+  },
+  "title": "TRIP",
+  "type": 3
+},
 	  	{
       "categories": ["Productivity"],
       "description": "An offline first, self hostable note taking application", 
