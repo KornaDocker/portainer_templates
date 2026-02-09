@@ -3767,6 +3767,33 @@
   "title": "TRIP",
   "type": 3
 },
+
+	  {
+  "categories": ["Media"],
+  "description": "Self-hosted, on-demand audio streaming platform that brings the Spotify experience to your personal music library. Features music streaming, podcast subscriptions, audiobook integration, playlist generation, and Lidarr integration for music discovery.",
+  "logo": "https://raw.githubusercontent.com/Chevron7Locked/lidify/main/assets/logo.png",
+  "name": "lidify",
+  "platform": "linux",
+  "repository": {
+    "stackfile": "Template/Stack/lidify-full.yml",
+    "url": "https://github.com/xneo1/portainer_templates"
+  },
+  "title": "Lidify-full",
+  "type": 3
+},
+	 {
+  "categories": ["Media"],
+  "description": "Self-hosted, on-demand audio streaming platform that brings the Spotify experience to your personal music library. Features music streaming, podcast subscriptions, audiobook integration, playlist generation, and Lidarr integration for music discovery.",
+  "logo": "https://raw.githubusercontent.com/Chevron7Locked/lidify/main/assets/logo.png",
+  "name": "lidify",
+  "platform": "linux",
+  "repository": {
+    "stackfile": "Template/Stack/lidify.yml",
+    "url": "https://github.com/xneo1/portainer_templates"
+  },
+  "title": "Lidify",
+  "type": 3
+},  
 {
   "categories": ["Monitoring"],
   "description": "Open Source solution for seamless, real-time monitoring of full-stack systems, applications, and infrastructure. Provides deep insights across servers, applications, and services with uptime monitoring, SSL tracking, and infrastructure metrics.",
