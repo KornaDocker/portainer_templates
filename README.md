@@ -49,6 +49,9 @@ Go to [details page](details.md)
   <li>Solidtime</li>
   <li>TRIP</li>
   <li>Checkle</li>
+  <li>Lidify-FULL</li>
+  <li>Lidify</li>
+  <li>Aurral</li>
   </ul>
 </details>
 
