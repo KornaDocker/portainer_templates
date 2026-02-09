@@ -3767,7 +3767,19 @@
   "title": "TRIP",
   "type": 3
 },
-
+{
+  "categories": ["Media"],
+  "description": "Streamlined Artist Request Manager for Lidarr. Search for artists using the MusicBrainz database and seamlessly add them to your Lidarr music library. Features personalized recommendations, genre analysis, and one-click requests.",
+  "logo": "https://raw.githubusercontent.com/lklynet/aurral/main/assets/logo.png",
+  "name": "aurral",
+  "platform": "linux",
+  "repository": {
+    "stackfile": "Template/Stack/aurral.yml",
+    "url": "https://github.com/xneo1/portainer_templates"
+  },
+  "title": "Aurral",
+  "type": 3
+},
 	  {
   "categories": ["Media"],
   "description": "Self-hosted, on-demand audio streaming platform that brings the Spotify experience to your personal music library. Features music streaming, podcast subscriptions, audiobook integration, playlist generation, and Lidarr integration for music discovery.",
