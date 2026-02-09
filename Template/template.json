@@ -3767,7 +3767,20 @@
   "title": "TRIP",
   "type": 3
 },
-	  	{
+{
+  "categories": ["Monitoring"],
+  "description": "Open Source solution for seamless, real-time monitoring of full-stack systems, applications, and infrastructure. Provides deep insights across servers, applications, and services with uptime monitoring, SSL tracking, and infrastructure metrics.",
+  "logo": "https://pub-4a4062303020445f8f289a2fee84f9e8.r2.dev/images/server-detail-page.png",
+  "name": "checkcle",
+  "platform": "linux",
+  "repository": {
+    "stackfile": "Template/Stack/checkcle.yml",
+    "url": "https://github.com/xneo1/portainer_templates"
+  },
+  "title": "CheckCle",
+  "type": 3
+},  
+{
       "categories": ["Productivity"],
       "description": "An offline first, self hostable note taking application", 
       "logo": "https://raw.githubusercontent.com/zhfahim/anchor/main/web/public/icons/anchor_icon.png",
