@@ -3731,7 +3731,7 @@
 	{
       "categories": ["Personal Finance"],
       "description": "Golang-based web application for personal expense management, focused on a clean monthly workflow and intuitive tracking of recurring and non-recurring costs.", 
-      "logo": "",
+      "logo": "https://github.com/solidtime-io/solidtime/raw/main/docs/solidtime-banner.png",
       "name": "gocostweb",
       "platform": "linux",
       "repository": {
@@ -3739,6 +3739,19 @@
 	    "url": "https://github.com/xneo1/portainer_templates"
       },  
       "title": "GoCostWeb",
+      "type": 3
+    }, 
+	  {
+      "categories": ["Time Management"],
+      "description": "The modern Open-Source Time Tracker", 
+      "logo": "",
+      "name": "solidtime",
+      "platform": "linux",
+      "repository": {
+	    "stackfile": "Template/Stack/solidtime.yml",
+	    "url": "https://github.com/xneo1/portainer_templates"
+      },  
+      "title": "SolidTime",
       "type": 3
     }, 
 	  	{
