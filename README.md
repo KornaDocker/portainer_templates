@@ -43,6 +43,14 @@ Go to [details page](details.md)
 ## Update:
 
 <details>
+<summary>09/02/2026</summary>
+<br>
+ <ul>
+  <li>Solidtime</li>
+  </ul>
+</details>
+
+<details>
 <summary>06/02/2026</summary>
 <br>
  <ul>
