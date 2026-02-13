@@ -1,0 +1,11 @@
+services:
+  crowdsec-web-ui:
+    build: .
+    container_name: crowdsec_web_ui
+    ports:
+      - "3000:3000"
+    env_file:
+      - .env
+    volumes:
+      - ./crowdsec.db:/app/data/crowdsec.db
+    restart: unless-stopped
