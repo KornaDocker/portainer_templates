@@ -43,6 +43,14 @@ Go to [details page](details.md)
 ## Update:
 
 <details>
+<summary>13/02/2026</summary>
+<br>
+ <ul>
+  <li>Crowdsec Web UI</li>
+  </ul>
+</details>
+
+<details>
 <summary>09/02/2026</summary>
 <br>
  <ul>
